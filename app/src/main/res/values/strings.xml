@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NYTimesSearch</string>
+    <string name="hints">Enter search query</string>
+    <string name="search">Search</string>
+    <string name="search_filters">Search filters</string>
+    <string name="art">Art</string>
+    <string name="fashion">Fashion</string>
+    <string name="style">Style</string>
+    <string name="sports">Sports</string>
+    <string name="begin_date">Begin Date</string>
+    <string name="sort_order">Sort Order</string>
+    <string name="news_desk_values">News Desk Values</string>
+    <string name="sort_prompt">Sort by</string>
+    <string name="save">Save</string>
+</resources>
